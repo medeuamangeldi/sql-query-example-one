@@ -38,5 +38,3 @@ The SQL query for Task One is provided in the `task_one.sql` file. This query re
 #### Output
 
 The output of the SQL query is stored in the `output.csv` file. This file contains the results of executing the SQL query against the PostgreSQL database.
-
-For any issues or further assistance, feel free to reach out!
